@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Vivek8840/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek8840/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,9 +41,14 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek8840/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek8840/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
