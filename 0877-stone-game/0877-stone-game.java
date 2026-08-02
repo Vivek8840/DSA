@@ -1,5 +1,6 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
+        return true;
         // int alice=0,bob=0;
         // int lmax=0,rmax=0;
         // int i=0,j=piles.length-1;
@@ -34,14 +35,14 @@ class Solution {
 
         // }
         // return (alice>bob)? true:false;
-        boolean flag=true;
-        // for(int i=0;i<piles.length-1;i++){
-        //     if(piles[i]==piles[i+1])
-        //     flag=false;
-        //     else
-        //     flag=true;
-        // }
-        return flag;
+        // boolean flag=true;
+        // // for(int i=0;i<piles.length-1;i++){
+        // //     if(piles[i]==piles[i+1])
+        // //     flag=false;
+        // //     else
+        // //     flag=true;
+        // // }
+        // return flag;
         
     }
 }
