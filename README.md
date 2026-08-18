@@ -26,6 +26,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vivek8840/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek8840/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vivek8840/DSA/tree/master/0739-daily-temperatures) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vivek8840/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
