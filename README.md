@@ -167,6 +167,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Vivek8840/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vivek8840/DSA/tree/master/0176-second-highest-salary) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vivek8840/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
