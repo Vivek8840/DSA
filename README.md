@@ -7,6 +7,7 @@
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek8840/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vivek8840/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vivek8840/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
