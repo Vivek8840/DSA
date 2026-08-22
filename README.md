@@ -164,4 +164,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vivek8840/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
