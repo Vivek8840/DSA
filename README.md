@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -194,5 +196,6 @@
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
