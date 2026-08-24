@@ -20,6 +20,7 @@
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek8840/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek8840/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek8840/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vivek8840/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek8840/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -83,10 +85,12 @@
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek8840/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 ## Design
 |  |
 | ------- |
@@ -172,4 +176,16 @@
 | [0180-consecutive-numbers](https://github.com/Vivek8840/DSA/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vivek8840/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vivek8840/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
