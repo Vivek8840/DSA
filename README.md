@@ -55,6 +55,7 @@
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek8840/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek8840/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vivek8840/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek8840/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 ## Design
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
