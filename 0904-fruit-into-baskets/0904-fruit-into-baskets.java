@@ -6,7 +6,7 @@ class Solution {
         while(r<n){
             hp.put(fruits[r],hp.getOrDefault(fruits[r],0)+1);
 
-            while(r>l && hp.size()>2){
+            while( hp.size()>2){
             int freq=hp.get(fruits[l])-1;
             if(freq<=0){
                 hp.remove(fruits[l]);
