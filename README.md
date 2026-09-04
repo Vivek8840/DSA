@@ -30,6 +30,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek8840/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vivek8840/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Vivek8840/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Vivek8840/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
