@@ -172,6 +172,7 @@
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Vivek8840/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivek8840/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivek8840/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
 | ------- |
