@@ -230,6 +230,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Vivek8840/DSA/tree/master/0006-zigzag-conversion) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
