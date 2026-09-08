@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vivek8840/DSA/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Vivek8840/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Vivek8840/DSA/tree/master/0063-unique-paths-ii) |
@@ -239,5 +240,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vivek8840/DSA/tree/master/0031-next-permutation) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
