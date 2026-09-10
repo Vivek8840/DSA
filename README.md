@@ -254,4 +254,16 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Vivek8840/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivek8840/DSA/tree/master/0040-combination-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek8840/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek8840/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek8840/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
