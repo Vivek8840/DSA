@@ -30,6 +30,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek8840/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek8840/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek8840/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek8840/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vivek8840/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek8840/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivek8840/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Queue
 |  |
