@@ -33,6 +33,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek8840/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek8840/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek8840/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek8840/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -95,6 +96,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek8840/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -103,6 +105,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Vivek8840/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
