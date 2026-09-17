@@ -29,6 +29,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek8840/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -52,6 +53,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vivek8840/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek8840/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek8840/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek8840/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek8840/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -126,6 +129,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek8840/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivek8840/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -200,6 +204,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vivek8840/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek8840/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivek8840/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Queue
