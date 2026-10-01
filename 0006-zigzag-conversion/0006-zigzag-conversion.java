@@ -1,40 +1,27 @@
 class Solution {
-    public String convert(String s, int nr) {
-        List<List<Character>> ans=new ArrayList<>();
-        for(int i=0;i<nr;i++){
-            ans.add(new ArrayList<>());
-        }
-        if(nr==1)
+    public String convert(String s, int row) {
+        int n=s.length();
+        if(row==1 || row>=n)
         return s;
-        int i=0,z=0;
-        boolean forward=true,backward=false;
-        while(i<s.length()){
-            char c=s.charAt(i);
-            ans.get(z).add(c);
-            if(z==0){
-                z++;
-                forward=true;
-                backward=false;
-            }
-            else if(z== nr-1){
-                z--;
-                forward=false;
-                backward=true;
-            }
-            else if(forward)
-            z++;
-            else if(backward)
-            z--;
-
-            i++;
+        StringBuilder sb[]=new StringBuilder[row];
+        for(int i=0;i<row;i++){
+            sb[i]=new StringBuilder();
         }
-
-        StringBuilder sb=new StringBuilder("");
-        for(int j=0;j<ans.size();j++){
-            for(int m=0;m<ans.get(j).size();m++){
-                sb.append(ans.get(j).get(m));
-            }
+        int r=0,d=1;
+        for(char c:s.toCharArray()){
+            sb[r].append(c);
+            if(r==0)
+            d=1;
+            else if(r==row-1)
+            d=-1;
+             r+=d;
         }
-        return sb.toString();
+        StringBuilder sbnext=new StringBuilder();
+        for(var k:sb){
+            sbnext.append(k);
+        }
+        String ress=sbnext.toString();
+        return ress;
+        
     }
 }
