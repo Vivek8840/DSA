@@ -47,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vivek8840/DSA/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek8840/DSA/tree/master/0836-rectangle-overlap) |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Vivek8840/DSA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
