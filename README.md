@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Vivek8840/DSA/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+| [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek8840/DSA/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vivek8840/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -324,4 +326,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
