@@ -65,6 +65,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Vivek8840/DSA/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Vivek8840/DSA/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
@@ -312,4 +314,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vivek8840/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vivek8840/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
