@@ -129,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vivek8840/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vivek8840/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vivek8840/DSA/tree/master/0062-unique-paths) |
@@ -277,6 +278,7 @@
 | [0006-zigzag-conversion](https://github.com/Vivek8840/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vivek8840/DSA/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
@@ -295,6 +297,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vivek8840/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Vivek8840/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivek8840/DSA/tree/master/0040-combination-sum-ii) |
 ## Tree
@@ -326,6 +329,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vivek8840/DSA/tree/master/0022-generate-parentheses) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
