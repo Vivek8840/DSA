@@ -75,6 +75,7 @@
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek8840/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek8840/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Vivek8840/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -138,6 +139,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivek8840/DSA/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek8840/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek8840/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -167,6 +169,7 @@
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek8840/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
@@ -284,6 +287,7 @@
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek8840/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/Vivek8840/DSA/tree/master/0804-unique-morse-code-words) |
 | [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivek8840/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -333,6 +337,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vivek8840/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek8840/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
