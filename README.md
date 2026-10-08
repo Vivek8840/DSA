@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vivek8840/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Vivek8840/DSA/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/Vivek8840/DSA/tree/master/0641-design-circular-deque) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vivek8840/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
@@ -355,6 +356,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Vivek8840/DSA/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek8840/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
