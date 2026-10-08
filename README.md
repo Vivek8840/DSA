@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/Vivek8840/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vivek8840/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Vivek8840/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivek8840/DSA/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -350,4 +352,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
