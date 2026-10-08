@@ -65,6 +65,7 @@
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Vivek8840/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/Vivek8840/DSA/tree/master/0804-unique-morse-code-words) |
@@ -124,6 +125,7 @@
 | [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Vivek8840/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vivek8840/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/Vivek8840/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Dynamic Programming
@@ -313,6 +316,7 @@
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Vivek8840/DSA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Vivek8840/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Vivek8840/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/Vivek8840/DSA/tree/master/0804-unique-morse-code-words) |
@@ -379,8 +383,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Vivek8840/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Vivek8840/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
