@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Vivek8840/DSA/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek8840/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
@@ -97,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vivek8840/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Vivek8840/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek8840/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivek8840/DSA/tree/master/0877-stone-game) |
@@ -116,6 +119,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +129,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek8840/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -194,6 +199,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivek8840/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
