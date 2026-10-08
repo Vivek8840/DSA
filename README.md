@@ -21,6 +21,7 @@
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Vivek8840/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vivek8840/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek8840/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vivek8840/DSA/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Vivek8840/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/Vivek8840/DSA/tree/master/0641-design-circular-deque) |
 ## Memoization
 |  |
@@ -286,6 +288,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vivek8840/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek8840/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Vivek8840/DSA/tree/master/1872-stone-game-viii) |
