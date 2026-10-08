@@ -16,6 +16,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivek8840/DSA/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vivek8840/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivek8840/DSA/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
@@ -57,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek8840/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vivek8840/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek8840/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek8840/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -208,6 +211,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vivek8840/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vivek8840/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -356,4 +360,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
