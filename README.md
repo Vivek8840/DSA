@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/Vivek8840/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivek8840/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vivek8840/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Vivek8840/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vivek8840/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vivek8840/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
@@ -59,6 +60,7 @@
 | [0001-two-sum](https://github.com/Vivek8840/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vivek8840/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek8840/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Vivek8840/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek8840/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vivek8840/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vivek8840/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
@@ -306,6 +309,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek8840/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vivek8840/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vivek8840/DSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Vivek8840/DSA/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/Vivek8840/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek8840/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
