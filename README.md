@@ -217,6 +217,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek8840/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Vivek8840/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vivek8840/DSA/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/Vivek8840/DSA/tree/master/0641-design-circular-deque) |
@@ -328,6 +329,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek8840/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Vivek8840/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Vivek8840/DSA/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Vivek8840/DSA/tree/master/0443-string-compression) |
