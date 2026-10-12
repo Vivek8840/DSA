@@ -46,6 +46,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek8840/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2555-maximize-win-from-two-segments](https://github.com/Vivek8840/DSA/tree/master/2555-maximize-win-from-two-segments) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivek8840/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek8840/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -74,6 +75,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek8840/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivek8840/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek8840/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek8840/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -200,6 +202,7 @@
 | [1927-sum-game](https://github.com/Vivek8840/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek8840/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivek8840/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 | [0136-single-number](https://github.com/Vivek8840/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Vivek8840/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
