@@ -52,6 +52,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivek8840/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek8840/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek8840/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek8840/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vivek8840/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Vivek8840/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -135,6 +136,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Vivek8840/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vivek8840/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek8840/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek8840/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivek8840/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vivek8840/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
