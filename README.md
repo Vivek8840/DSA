@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/Vivek8840/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivek8840/DSA/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Vivek8840/DSA/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Vivek8840/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vivek8840/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Vivek8840/DSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vivek8840/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -304,6 +305,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vivek8840/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vivek8840/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek8840/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek8840/DSA/tree/master/1004-max-consecutive-ones-iii) |
