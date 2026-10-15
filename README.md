@@ -239,6 +239,7 @@
 | [0141-linked-list-cycle](https://github.com/Vivek8840/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vivek8840/DSA/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/Vivek8840/DSA/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/Vivek8840/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vivek8840/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
@@ -354,6 +355,7 @@
 | [0189-rotate-array](https://github.com/Vivek8840/DSA/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Vivek8840/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vivek8840/DSA/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Vivek8840/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Vivek8840/DSA/tree/master/0948-bag-of-tokens) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivek8840/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
